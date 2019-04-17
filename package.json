@@ -6,6 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "immutable": "4.0.0-rc.12",
+    "mobx-state-tree": "3.14.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.1.8",
